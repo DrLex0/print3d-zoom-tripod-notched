@@ -33,7 +33,7 @@ This is designed to be printed at 0.2 mm layers. I recommend to use 3 perimeter
 * If you print a whole new tripod: print one of each file except `xtra_separate_lower_jaw.stl`. Print the `tripod_leg_plain.stl` file twice.
 * If you already printed the original tripod and want to upgrade it to the notched version: only print `tripod_base_notched.stl` and `xtra_separate_lower_jaw.stl`.
 
-You can choose to print either or both of the `tripod_post` files depending on how you want to mount your device.
+You can choose to print either or both of the `tripod_post` files depending on how you want to mount your device. The XL post allows to mount most phones in both portrait as well as landscape orientations, but if you're only going to mount your phone in landscape, the shorter post keeps the tripod more compact and portable when folded.
 
 If it is hard or impossible to screw the knobs on their threads, it simply means you have work to do on making your printer print accurately. Any issues filed about this will be closed immediately as invalid: this model is certain to work fine on a well-calibrated printer. (As a workaround, you could scale up the ring in the XY directions.)
 
