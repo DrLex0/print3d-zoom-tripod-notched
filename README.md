@@ -9,7 +9,7 @@ This is a remix of the ‘Zoom Phone Tripod’ by LoboCNC ([Thingiverse thing:44
 
 ### Gallery
 
-![Photo 1](thumbs/tripod1.jpg)[🔎](images/tripod1.jpg) ![Photo 2](thumbs/tripod2.jpg)[🔎](images/tripod2.jpg) ![Photo 2](thumbs/tripod3.jpg)[🔎](images/tripod3.jpg) ![Photo 2](thumbs/tripod4.jpg)[🔎](images/tripod4.jpg) ![Photo 2](thumbs/tripod5.jpg)[🔎](images/tripod5.jpg) ![Photo 2](thumbs/tripod6.jpg)[🔎](images/tripod6.jpg) ![Photo 2](thumbs/tripod-parts.jpg)[🔎](images/tripod-parts.jpg) ![Photo 2](thumbs/tripod-newparts.jpg)[🔎](images/tripod-newparts.jpg)
+![Photo 1](thumbs/tripod1.jpg)[🔎](images/tripod1.jpg) ![Photo 2](thumbs/tripod2.jpg)[🔎](images/tripod2.jpg) ![Photo 3](thumbs/tripod3.jpg)[🔎](images/tripod3.jpg) ![Photo 4](thumbs/tripod4.jpg)[🔎](images/tripod4.jpg) ![Photo 5](thumbs/tripod5.jpg)[🔎](images/tripod5.jpg) ![Photo 6](thumbs/tripod6.jpg)[🔎](images/tripod6.jpg) ![Pre-assembly](thumbs/tripod-parts.jpg)[🔎](images/tripod-parts.jpg) ![Modified parts](thumbs/tripod-newparts.jpg)[🔎](images/tripod-newparts.jpg)
 
 
 ## Description and Instructions
