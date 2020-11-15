@@ -33,7 +33,7 @@ This is designed to be printed at 0.2 mm layers. I recommend to use 3 perimeter
 * If you print a whole new tripod: print one of each file except `xtra_separate_lower_jaw.stl`. Print the `tripod_leg_plain.stl` file twice.
 * If you already printed the original tripod and want to upgrade it to the notched version: only print `tripod_base_notched.stl` and `xtra_separate_lower_jaw.stl`.
 
-You can choose to print either or both of the `tripod_post` files depending on how you want to mount your device. The XL post allows to mount most phones in both portrait as well as landscape orientations, but if you're only going to mount your phone in landscape, the shorter post keeps the tripod more compact and portable when folded.
+You can choose to print either or both of the `tripod_post` files depending on how you want to mount your device. The XL post allows to mount reasonably sized phones in both portrait as well as landscape orientations, but if you're only going to mount your phone in landscape, the shorter post keeps the tripod more compact and portable when folded. The XL post may also allow mounting small tablets in landscape, but it is too short for ‘phablets’ in portrait mode. Making an even taller post would make the whole thing too unstable.
 
 If it is hard or impossible to screw the knobs on their threads, it simply means you have work to do on making your printer print accurately. Any issues filed about this will be closed immediately as invalid: this model is certain to work fine on a well-calibrated printer. (As a workaround, you could scale up the ring in the XY directions.)
 
@@ -42,8 +42,9 @@ If it is hard or impossible to screw the knobs on their threads, it simply means
 
 The leg with the clip and the jaws all have tiny built-in support structures with clearances that require slicing with exactly 0.2mm layer height. Just break away these small pieces after printing.
 
-Assembly is straightforward - just use the photos as a guide.
+Assembly is straightforward - just use the photos and the exploded view below as a guide.
 
+![Photo 1](thumbs/assemble.jpg)[🔎](images/assemble.jpg)
 
 ## Updates
 
